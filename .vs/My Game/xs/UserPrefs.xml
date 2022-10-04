@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{E64E2042-690B-E8F2-39CE-F0889F6B26CA}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/finishTrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/finishTrigger.cs" Line="8" Column="37" />
+      <File FileName="Assets/Scripts/StartMenu.cs" Line="6" Column="39" />
+      <File FileName="Assets/Scripts/itemCollector.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/coinTotal.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/playerMoment.cs" Line="62" Column="58" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="My Game" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="b79a8323-3494-417b-bcc2-a0696d5dea5e" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
