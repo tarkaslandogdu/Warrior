@@ -474,7 +474,7 @@ TextureImporter:
       213: 7166804967011762751
     second: Cainos Tileset Ground_156
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -495,6 +495,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -533,6 +534,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -572,6 +574,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3892,6 +3918,164 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cainos Tileset Ground_82: -3411406308026929120
+      Cainos Tileset Ground_26: -1735804126579273469
+      Cainos Tileset Ground_151: -960847024904494328
+      Cainos Tileset Ground_1: 8391274726196582425
+      Cainos Tileset Ground_141: 6329923914407908194
+      Cainos Tileset Ground_102: 626741264943697469
+      Cainos Tileset Ground_112: -1610533996082240314
+      Cainos Tileset Ground_108: 1580416814013967972
+      Cainos Tileset Ground_124: 7686976476990832219
+      Cainos Tileset Ground_41: 5536007570157011353
+      Cainos Tileset Ground_156: 7166804967011762751
+      Cainos Tileset Ground_62: 5091042961029330887
+      Cainos Tileset Ground_119: -959872818365587368
+      Cainos Tileset Ground_21: -7736424872744243857
+      Cainos Tileset Ground_29: 5604209693268472769
+      Cainos Tileset Ground_49: -3768375949051867602
+      Cainos Tileset Ground_48: -8790725362396252143
+      Cainos Tileset Ground_51: -2251206629600829529
+      Cainos Tileset Ground_53: 1604207669956542621
+      Cainos Tileset Ground_68: -4185261656265561458
+      Cainos Tileset Ground_16: 8096918670092881868
+      Cainos Tileset Ground_155: 9006837725730291075
+      Cainos Tileset Ground_138: 1610868708164434988
+      Cainos Tileset Ground_76: -3304402567755672474
+      Cainos Tileset Ground_152: -5954931366439729343
+      Cainos Tileset Ground_105: -7486215762439404938
+      Cainos Tileset Ground_70: 3354329626612287216
+      Cainos Tileset Ground_78: 107926292849976950
+      Cainos Tileset Ground_32: 2817481374226481133
+      Cainos Tileset Ground_79: -7759150936526316524
+      Cainos Tileset Ground_93: 7906737754185993883
+      Cainos Tileset Ground_65: -1749047537612573069
+      Cainos Tileset Ground_153: -1233078301499994714
+      Cainos Tileset Ground_37: 1326620959363024940
+      Cainos Tileset Ground_38: -5180543859049441705
+      Cainos Tileset Ground_72: 5317947653261699350
+      Cainos Tileset Ground_59: -3183438204993569423
+      Cainos Tileset Ground_90: -3600909025512238592
+      Cainos Tileset Ground_30: 6184064338845930076
+      Cainos Tileset Ground_148: 4579784624369315746
+      Cainos Tileset Ground_4: 918609732971326692
+      Cainos Tileset Ground_83: -2411963575510570858
+      Cainos Tileset Ground_140: 536682383525164291
+      Cainos Tileset Ground_110: -3838277007354847329
+      Cainos Tileset Ground_135: 4637701112003387382
+      Cainos Tileset Ground_31: -5245576935320417207
+      Cainos Tileset Ground_149: 4157672148313931226
+      Cainos Tileset Ground_99: 7746182522357608995
+      Cainos Tileset Ground_6: -682949417268134205
+      Cainos Tileset Ground_91: 6076186903613606314
+      Cainos Tileset Ground_95: 7328107980982000045
+      Cainos Tileset Ground_154: -9050412969975537589
+      Cainos Tileset Ground_107: 5028028959410636270
+      Cainos Tileset Ground_42: -1698167798156375512
+      Cainos Tileset Ground_81: -5688098081035396046
+      Cainos Tileset Ground_121: -3681678907561585413
+      Cainos Tileset Ground_127: 3991136736723935697
+      Cainos Tileset Ground_10: -6869519562846403452
+      Cainos Tileset Ground_40: -8569467198109501613
+      Cainos Tileset Ground_44: 8697089040241970736
+      Cainos Tileset Ground_106: -157532027503718212
+      Cainos Tileset Ground_47: 4057965552791444754
+      Cainos Tileset Ground_113: 6868079460715899142
+      Cainos Tileset Ground_97: -6313132667480408962
+      Cainos Tileset Ground_19: -4722647978569356758
+      Cainos Tileset Ground_50: -8450673750597119744
+      Cainos Tileset Ground_71: -5466563506376843282
+      Cainos Tileset Ground_54: -4455866109105132786
+      Cainos Tileset Ground_109: -6927230441173547486
+      Cainos Tileset Ground_9: 8820826163336676750
+      Cainos Tileset Ground_13: -2620311196081391856
+      Cainos Tileset Ground_89: 1723830208311751758
+      Cainos Tileset Ground_132: -3049226316149583516
+      Cainos Tileset Ground_145: -8667475187002656790
+      Cainos Tileset Ground_133: -3532485890316198735
+      Cainos Tileset Ground_15: -1502442983604062805
+      Cainos Tileset Ground_60: 3872395929411601039
+      Cainos Tileset Ground_69: -8610995226658566674
+      Cainos Tileset Ground_12: -2203165991924908401
+      Cainos Tileset Ground_114: 8444128942476939206
+      Cainos Tileset Ground_36: -4834404581783410421
+      Cainos Tileset Ground_147: -4534589616102255429
+      Cainos Tileset Ground_84: -6911979938750155636
+      Cainos Tileset Ground_117: 8612806507056322618
+      Cainos Tileset Ground_87: 6453120464899430395
+      Cainos Tileset Ground_125: -5126923273538197777
+      Cainos Tileset Ground_35: 2673600425763094333
+      Cainos Tileset Ground_122: -7615439974125405820
+      Cainos Tileset Ground_131: -5547884788708506388
+      Cainos Tileset Ground_101: 6241365092114743610
+      Cainos Tileset Ground_150: 7742324543851832245
+      Cainos Tileset Ground_58: -7996656957017173356
+      Cainos Tileset Ground_3: 5929327935587654126
+      Cainos Tileset Ground_18: 5273989124658563
+      Cainos Tileset Ground_57: 5427844013489037204
+      Cainos Tileset Ground_142: 3250296661226411578
+      Cainos Tileset Ground_20: 6835396518367067211
+      Cainos Tileset Ground_61: -7287963518561837762
+      Cainos Tileset Ground_33: 8183361449681708108
+      Cainos Tileset Ground_111: 4697176918336579674
+      Cainos Tileset Ground_63: -3339765611018885866
+      Cainos Tileset Ground_67: -8890813458370770966
+      Cainos Tileset Ground_73: 2248713867547044289
+      Cainos Tileset Ground_86: -8603278399018253987
+      Cainos Tileset Ground_7: -8438211460196480722
+      Cainos Tileset Ground_0: 6542970614604442932
+      Cainos Tileset Ground_34: -7764278586950597522
+      Cainos Tileset Ground_126: 4695154930695567365
+      Cainos Tileset Ground_123: 6446564616968757522
+      Cainos Tileset Ground_96: -4745365942455663016
+      Cainos Tileset Ground_43: -2638201954565104749
+      Cainos Tileset Ground_136: 2746128140343382909
+      Cainos Tileset Ground_139: -7070417441600654872
+      Cainos Tileset Ground_27: 6533235752868882303
+      Cainos Tileset Ground_104: -6386375832654811339
+      Cainos Tileset Ground_88: 3594182976459513675
+      Cainos Tileset Ground_24: -2756798218107180191
+      Cainos Tileset Ground_75: -8176086133893189206
+      Cainos Tileset Ground_85: 231360996252754487
+      Cainos Tileset Ground_14: -5184625012858810134
+      Cainos Tileset Ground_52: -7445222811772427134
+      Cainos Tileset Ground_98: 920144111515308258
+      Cainos Tileset Ground_118: 8223635397162538790
+      Cainos Tileset Ground_134: 1167651971808351927
+      Cainos Tileset Ground_5: 7042782705059980553
+      Cainos Tileset Ground_39: -1204269615194519141
+      Cainos Tileset Ground_55: -3366901252331037833
+      Cainos Tileset Ground_116: 7190137839299588257
+      Cainos Tileset Ground_8: -5073550283367589401
+      Cainos Tileset Ground_146: -1927589035603871250
+      Cainos Tileset Ground_45: -5102063087642261204
+      Cainos Tileset Ground_94: -6406056603574431845
+      Cainos Tileset Ground_28: -1355395566833404116
+      Cainos Tileset Ground_143: 104871488410608776
+      Cainos Tileset Ground_128: -5877623214884566943
+      Cainos Tileset Ground_22: -6337070809361070034
+      Cainos Tileset Ground_23: 1374003981762726560
+      Cainos Tileset Ground_2: -7111275278145536684
+      Cainos Tileset Ground_17: -6393254249886139338
+      Cainos Tileset Ground_100: -7870780463997268696
+      Cainos Tileset Ground_77: -3783414643306448581
+      Cainos Tileset Ground_80: 1096719602030387567
+      Cainos Tileset Ground_46: -3938655651920595065
+      Cainos Tileset Ground_137: -8831452989706242811
+      Cainos Tileset Ground_115: 5537100698261064416
+      Cainos Tileset Ground_130: 5554668577319118816
+      Cainos Tileset Ground_92: -3802572656099964637
+      Cainos Tileset Ground_144: 3244329856983597599
+      Cainos Tileset Ground_103: 6430186304239099353
+      Cainos Tileset Ground_56: -1471441025043767006
+      Cainos Tileset Ground_11: 140155864731647057
+      Cainos Tileset Ground_25: -4284583630902012114
+      Cainos Tileset Ground_129: -4139605325829436564
+      Cainos Tileset Ground_66: 8711111972882624993
+      Cainos Tileset Ground_120: -4193863462407458728
+      Cainos Tileset Ground_74: 329785725616781412
+      Cainos Tileset Ground_64: 3113379431217153653
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

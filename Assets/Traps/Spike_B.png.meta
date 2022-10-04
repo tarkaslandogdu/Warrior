@@ -63,7 +63,7 @@ TextureImporter:
       213: 3141154169289999292
     second: Spike_B_19
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -84,6 +84,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -122,6 +123,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -161,6 +163,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -604,6 +630,27 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Spike_B_4: 4619393306346499539
+      Spike_B_18: 5127115869429021839
+      Spike_B_5: -2816721238308693310
+      Spike_B_7: 7815735737233319869
+      Spike_B_10: -3495494701926230293
+      Spike_B_8: -5027281793407891940
+      Spike_B_16: -2118001927722035827
+      Spike_B_2: -4624664337665552153
+      Spike_B_19: 3141154169289999292
+      Spike_B_15: 4162280361719814713
+      Spike_B_0: -3804453786874968470
+      Spike_B_9: 243604861109933673
+      Spike_B_6: -7612819912504764799
+      Spike_B_1: -2321815495975119944
+      Spike_B_14: -6662504954059443806
+      Spike_B_12: -4828931448874111853
+      Spike_B_13: 6315946247210864659
+      Spike_B_17: 7898022453156895225
+      Spike_B_3: -6421112769842419428
+      Spike_B_11: 8127816252771885245
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

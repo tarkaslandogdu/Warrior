@@ -780,7 +780,7 @@ TextureImporter:
       213: -360206852742624737
     second: magic_clifs_tileset_258
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -801,6 +801,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -839,6 +840,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -878,6 +880,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -6340,6 +6366,266 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      magic_clifs_tileset_137: 2946745132704825599
+      magic_clifs_tileset_168: -2414977279443861314
+      magic_clifs_tileset_163: 3124003768298341532
+      magic_clifs_tileset_6: -5520910945837828949
+      magic_clifs_tileset_25: -3757620367597766584
+      magic_clifs_tileset_69: -5892859836221442356
+      magic_clifs_tileset_144: -3557073241807195689
+      magic_clifs_tileset_114: 2994904406012562450
+      magic_clifs_tileset_222: -506662520074495489
+      magic_clifs_tileset_85: 7805292324860571920
+      magic_clifs_tileset_216: -8483904108641286120
+      magic_clifs_tileset_248: 6006709793475260608
+      magic_clifs_tileset_33: 6825759452437154703
+      magic_clifs_tileset_149: -8078763941305268666
+      magic_clifs_tileset_257: -493675864727561656
+      magic_clifs_tileset_251: 6193552285487828514
+      magic_clifs_tileset_83: 2383398541618150284
+      magic_clifs_tileset_143: -9124250609275339249
+      magic_clifs_tileset_17: -1829859521745557776
+      magic_clifs_tileset_39: -2863188257784447863
+      magic_clifs_tileset_94: 6791304366514341704
+      magic_clifs_tileset_133: 8329058585252358452
+      magic_clifs_tileset_230: -2507777636598722886
+      magic_clifs_tileset_109: -4493207062800277671
+      magic_clifs_tileset_169: 7328575476259756859
+      magic_clifs_tileset_124: 6519792394287404420
+      magic_clifs_tileset_57: -8167609383168358639
+      magic_clifs_tileset_74: 8710986028391270442
+      magic_clifs_tileset_234: 1041753328487602120
+      magic_clifs_tileset_244: 5518000887929186232
+      magic_clifs_tileset_12: -5630714986243277185
+      magic_clifs_tileset_101: -4729492087125273017
+      magic_clifs_tileset_255: -4636665022430834417
+      magic_clifs_tileset_203: 4886284818257296587
+      magic_clifs_tileset_23: 4235089383752077266
+      magic_clifs_tileset_8: -1155062760984448283
+      magic_clifs_tileset_165: -6838289843726877234
+      magic_clifs_tileset_138: -1525265722248956894
+      magic_clifs_tileset_40: -6941487466783603875
+      magic_clifs_tileset_177: 2088357935992437692
+      magic_clifs_tileset_198: 3988894559147302169
+      magic_clifs_tileset_126: -1825130839141220226
+      magic_clifs_tileset_160: 8720272336615645539
+      magic_clifs_tileset_238: 5854339363100996542
+      magic_clifs_tileset_231: 7963858499663212717
+      magic_clifs_tileset_95: 5480416464247643769
+      magic_clifs_tileset_11: 6463625476981534683
+      magic_clifs_tileset_213: -4440834473336205147
+      magic_clifs_tileset_82: -5690835720084802174
+      magic_clifs_tileset_3: -3522327149860876142
+      magic_clifs_tileset_219: 3011952323585476527
+      magic_clifs_tileset_135: 5584265158438344792
+      magic_clifs_tileset_96: -5118483675301119208
+      magic_clifs_tileset_100: 2437527189126609192
+      magic_clifs_tileset_21: 5234565440846567408
+      magic_clifs_tileset_110: 5189327157087275376
+      magic_clifs_tileset_240: 471942676525614125
+      magic_clifs_tileset_178: 1578233015458680749
+      magic_clifs_tileset_70: 3961327358789064133
+      magic_clifs_tileset_123: 1584052639684209810
+      magic_clifs_tileset_92: 8612906727453415672
+      magic_clifs_tileset_127: -3266659465818840388
+      magic_clifs_tileset_206: 8756524042571186375
+      magic_clifs_tileset_20: 5675720514175992180
+      magic_clifs_tileset_199: 2539830131040158030
+      magic_clifs_tileset_195: 5821333891472832948
+      magic_clifs_tileset_75: 4772977753767143101
+      magic_clifs_tileset_125: -425000816894455497
+      magic_clifs_tileset_119: 8392561518253092769
+      magic_clifs_tileset_113: -5644623208150591005
+      magic_clifs_tileset_10: 879452595580788597
+      magic_clifs_tileset_151: 5637890669597603222
+      magic_clifs_tileset_204: 5034602292460667476
+      magic_clifs_tileset_254: -6699583474121294674
+      magic_clifs_tileset_258: -360206852742624737
+      magic_clifs_tileset_250: 3453399047038683191
+      magic_clifs_tileset_107: -5376553057557737266
+      magic_clifs_tileset_154: -816149207505965527
+      magic_clifs_tileset_159: -8830720494102558453
+      magic_clifs_tileset_207: 2074445513071865752
+      magic_clifs_tileset_4: -7738408190467937174
+      magic_clifs_tileset_247: 7535314177184345460
+      magic_clifs_tileset_61: -5313758143740973762
+      magic_clifs_tileset_209: 986680654259602894
+      magic_clifs_tileset_112: 7310928285212361693
+      magic_clifs_tileset_54: 3808278828215445703
+      magic_clifs_tileset_55: 5711356406491029680
+      magic_clifs_tileset_246: -477364315126706696
+      magic_clifs_tileset_59: -2724189409035990205
+      magic_clifs_tileset_118: 1168142967008962203
+      magic_clifs_tileset_184: 9191501199745767036
+      magic_clifs_tileset_140: -3048531990507768074
+      magic_clifs_tileset_229: 4933688093361318978
+      magic_clifs_tileset_232: 8417902741894690555
+      magic_clifs_tileset_15: -5745250568538492502
+      magic_clifs_tileset_202: -9083291240402029380
+      magic_clifs_tileset_84: -5723348068724944728
+      magic_clifs_tileset_71: 8118544662573022438
+      magic_clifs_tileset_0: -1672609438154599751
+      magic_clifs_tileset_5: 3807657474752393529
+      magic_clifs_tileset_187: 2694464265961818335
+      magic_clifs_tileset_132: -3430104251336798074
+      magic_clifs_tileset_146: 6018525827752869900
+      magic_clifs_tileset_13: -8429949449763271071
+      magic_clifs_tileset_66: -5560586748343152860
+      magic_clifs_tileset_225: 6815037085750396280
+      magic_clifs_tileset_129: -597701424639313215
+      magic_clifs_tileset_210: 941501772000377197
+      magic_clifs_tileset_252: -433030393231158001
+      magic_clifs_tileset_72: -2902723217462083142
+      magic_clifs_tileset_111: -2871791905908040797
+      magic_clifs_tileset_64: -2691099112646711534
+      magic_clifs_tileset_148: -3353757365171134412
+      magic_clifs_tileset_28: 1890048345254759758
+      magic_clifs_tileset_45: 7313657040358620681
+      magic_clifs_tileset_50: -2446413235632677914
+      magic_clifs_tileset_235: -2388301118977381500
+      magic_clifs_tileset_76: 8749671860823625022
+      magic_clifs_tileset_43: -70292988109744838
+      magic_clifs_tileset_145: 286431682863572752
+      magic_clifs_tileset_182: -8139987513881639388
+      magic_clifs_tileset_156: -1056027141895417408
+      magic_clifs_tileset_183: 6081522549112442574
+      magic_clifs_tileset_142: -2888520115042292235
+      magic_clifs_tileset_60: -8317133574446678883
+      magic_clifs_tileset_147: -7300140539955452448
+      magic_clifs_tileset_197: 6574287965000345470
+      magic_clifs_tileset_215: 5126998371504146447
+      magic_clifs_tileset_256: -4083384065532037464
+      magic_clifs_tileset_241: -7951428000710487602
+      magic_clifs_tileset_51: 6738003237090502185
+      magic_clifs_tileset_97: -5374038302614106191
+      magic_clifs_tileset_166: -2495641837056035846
+      magic_clifs_tileset_91: 5252187367781327098
+      magic_clifs_tileset_190: 6365847763304463873
+      magic_clifs_tileset_220: 2297069293065291520
+      magic_clifs_tileset_239: -8951320168495260913
+      magic_clifs_tileset_253: 8026417977709735862
+      magic_clifs_tileset_214: -3198313800455678174
+      magic_clifs_tileset_67: -4723363108453362683
+      magic_clifs_tileset_41: -1379404509560226718
+      magic_clifs_tileset_26: -5699835873589251280
+      magic_clifs_tileset_245: -7874749312016258203
+      magic_clifs_tileset_130: 804784909381935062
+      magic_clifs_tileset_63: -4923104808245754501
+      magic_clifs_tileset_22: 3998807368841554261
+      magic_clifs_tileset_153: -2242859524927251202
+      magic_clifs_tileset_167: -6534594479144930301
+      magic_clifs_tileset_208: 2281113283812126405
+      magic_clifs_tileset_226: -7633930403101638510
+      magic_clifs_tileset_99: 6655138307881334393
+      magic_clifs_tileset_141: 2652442527692747565
+      magic_clifs_tileset_42: 8958684393968140769
+      magic_clifs_tileset_62: 6657548019369077268
+      magic_clifs_tileset_179: 8705941731630987997
+      magic_clifs_tileset_186: 4314255787274020543
+      magic_clifs_tileset_103: 6390347867655704729
+      magic_clifs_tileset_161: -6352524837196078481
+      magic_clifs_tileset_73: -6651857995873364941
+      magic_clifs_tileset_65: -9005619367523144323
+      magic_clifs_tileset_115: -6046454735495510782
+      magic_clifs_tileset_233: -2974874925718300761
+      magic_clifs_tileset_243: 1757903161807300641
+      magic_clifs_tileset_162: 6783039689740031344
+      magic_clifs_tileset_16: -3632464851402655543
+      magic_clifs_tileset_80: -661038532485867420
+      magic_clifs_tileset_35: -1962523919009576555
+      magic_clifs_tileset_89: -6996693504113807307
+      magic_clifs_tileset_52: -5782347889301602112
+      magic_clifs_tileset_104: 640663949358160437
+      magic_clifs_tileset_36: 3206529226804873268
+      magic_clifs_tileset_27: 1601794058285693226
+      magic_clifs_tileset_236: 3517373551769071041
+      magic_clifs_tileset_116: 3260402950315389102
+      magic_clifs_tileset_38: -8083117448775479415
+      magic_clifs_tileset_223: -2639192734304867032
+      magic_clifs_tileset_189: 4061178708270285381
+      magic_clifs_tileset_181: 6951210831164096638
+      magic_clifs_tileset_44: -4085894186344904154
+      magic_clifs_tileset_37: -3139174354962799833
+      magic_clifs_tileset_227: 5569774515319972982
+      magic_clifs_tileset_249: -7155490253187987588
+      magic_clifs_tileset_30: 2347989360784779638
+      magic_clifs_tileset_53: 6679043687386489599
+      magic_clifs_tileset_152: 7958333745418042299
+      magic_clifs_tileset_218: 7762687213261101834
+      magic_clifs_tileset_58: 6679743144335473765
+      magic_clifs_tileset_81: 3278176986768678888
+      magic_clifs_tileset_136: 284463757822684250
+      magic_clifs_tileset_158: 86647571976826490
+      magic_clifs_tileset_170: 5794793891953361928
+      magic_clifs_tileset_211: 8060198741797834947
+      magic_clifs_tileset_14: -1740594671679556031
+      magic_clifs_tileset_78: 4655903686315350513
+      magic_clifs_tileset_102: 4658703312956727416
+      magic_clifs_tileset_108: -6533875689932958990
+      magic_clifs_tileset_205: 728619739972687389
+      magic_clifs_tileset_192: -7827989891638829922
+      magic_clifs_tileset_176: 1291658022723891518
+      magic_clifs_tileset_86: -585443120814303447
+      magic_clifs_tileset_32: 6856481532908599734
+      magic_clifs_tileset_134: 7698727637638507263
+      magic_clifs_tileset_242: -914841408174617400
+      magic_clifs_tileset_139: -4679970131672740003
+      magic_clifs_tileset_19: 6183355885067749461
+      magic_clifs_tileset_34: -6402099153907720469
+      magic_clifs_tileset_56: -3494938507987534712
+      magic_clifs_tileset_79: 7656175300099251734
+      magic_clifs_tileset_155: -112425512316704560
+      magic_clifs_tileset_105: -7920856157295016247
+      magic_clifs_tileset_212: 8974759306174311502
+      magic_clifs_tileset_196: -2428913681430866661
+      magic_clifs_tileset_121: -6765338309210003354
+      magic_clifs_tileset_217: -7210626223560049389
+      magic_clifs_tileset_122: 5275945396008846200
+      magic_clifs_tileset_172: 6733105708566862479
+      magic_clifs_tileset_201: -4831301665903041393
+      magic_clifs_tileset_47: -321281424718509930
+      magic_clifs_tileset_29: 5531243076434024198
+      magic_clifs_tileset_120: -4896596006985002701
+      magic_clifs_tileset_7: -8798571416853797129
+      magic_clifs_tileset_188: 6784127239933587038
+      magic_clifs_tileset_98: 4180983802591418000
+      magic_clifs_tileset_106: -6952964641587133757
+      magic_clifs_tileset_228: -1519915873795525762
+      magic_clifs_tileset_9: 5167302223723002337
+      magic_clifs_tileset_174: 2316789358838843794
+      magic_clifs_tileset_131: -2081314957685614961
+      magic_clifs_tileset_93: 174646449289542839
+      magic_clifs_tileset_157: 4960359277080174145
+      magic_clifs_tileset_185: 6752772363964435469
+      magic_clifs_tileset_193: -1537051323482690456
+      magic_clifs_tileset_48: 1185026466440277643
+      magic_clifs_tileset_46: -6549026043791886441
+      magic_clifs_tileset_200: -6686449230506185797
+      magic_clifs_tileset_171: 4504729122248663063
+      magic_clifs_tileset_224: -116742384821201679
+      magic_clifs_tileset_90: 5979525742775948144
+      magic_clifs_tileset_117: -440274621699070213
+      magic_clifs_tileset_31: 7536022607406310771
+      magic_clifs_tileset_24: -1184727704508592517
+      magic_clifs_tileset_87: 8532304048822296409
+      magic_clifs_tileset_49: 5503116922480716536
+      magic_clifs_tileset_175: -9042184239945484857
+      magic_clifs_tileset_194: -2572780685718086167
+      magic_clifs_tileset_1: -7297787524229161327
+      magic_clifs_tileset_2: -6298072014342759442
+      magic_clifs_tileset_128: -2326974628072072100
+      magic_clifs_tileset_173: 1131980342866942798
+      magic_clifs_tileset_150: 5911960564138099245
+      magic_clifs_tileset_77: -1432554350418135693
+      magic_clifs_tileset_221: -7130803902853109280
+      magic_clifs_tileset_237: -210000376362076765
+      magic_clifs_tileset_180: 4074622266894428458
+      magic_clifs_tileset_191: -2513647960210494765
+      magic_clifs_tileset_164: 6795290985382208559
+      magic_clifs_tileset_18: -4001291705100973789
+      magic_clifs_tileset_68: -5221001165929659087
+      magic_clifs_tileset_88: 114734134771717105
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

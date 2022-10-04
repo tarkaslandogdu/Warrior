@@ -93,7 +93,7 @@ TextureImporter:
       213: 2716264123495449617
     second: Tile-Sets (64-64)_29
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -114,6 +114,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -152,6 +153,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -191,6 +193,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -844,6 +870,37 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Tile-Sets (64-64)_22: 8433432744724959107
+      Tile-Sets (64-64)_14: -2016735203541663436
+      Tile-Sets (64-64)_9: 3003509796074811516
+      Tile-Sets (64-64)_23: 2086505974972191987
+      Tile-Sets (64-64)_10: -5756038519620357816
+      Tile-Sets (64-64)_19: 2049771464748688598
+      Tile-Sets (64-64)_3: 6006599754692465794
+      Tile-Sets (64-64)_25: -6419963453198971880
+      Tile-Sets (64-64)_26: 8017998740429962474
+      Tile-Sets (64-64)_15: -7794487633252970421
+      Tile-Sets (64-64)_18: -8064304383430041218
+      Tile-Sets (64-64)_21: 6865162797413546414
+      Tile-Sets (64-64)_16: 7788719308430720360
+      Tile-Sets (64-64)_7: 5341968732143427477
+      Tile-Sets (64-64)_1: 7677746386170045030
+      Tile-Sets (64-64)_4: 5597233533788714312
+      Tile-Sets (64-64)_6: 217210847207515910
+      Tile-Sets (64-64)_20: -227328139838572725
+      Tile-Sets (64-64)_27: -3773356419620633436
+      Tile-Sets (64-64)_12: -7546071762092457313
+      Tile-Sets (64-64)_29: 2716264123495449617
+      Tile-Sets (64-64)_11: -6829316275817730238
+      Tile-Sets (64-64)_28: 1262999635993636959
+      Tile-Sets (64-64)_24: 4077880083153768512
+      Tile-Sets (64-64)_0: 8305658182788461582
+      Tile-Sets (64-64)_17: 8321722199012383440
+      Tile-Sets (64-64)_8: -1211998867866246962
+      Tile-Sets (64-64)_13: -5488903456777471993
+      Tile-Sets (64-64)_2: 1946782611979153331
+      Tile-Sets (64-64)_5: -6147209319500292149
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

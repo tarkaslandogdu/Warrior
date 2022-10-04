@@ -207,7 +207,7 @@ TextureImporter:
       213: 7133534692730195527
     second: char_blue_1_67
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -228,6 +228,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -266,6 +267,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -305,6 +307,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1756,6 +1782,75 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      char_blue_1_26: -4736972933476051986
+      char_blue_1_56: -6581380553628602971
+      char_blue_1_11: 2959908855591204936
+      char_blue_1_25: 4056774434074102931
+      char_blue_1_33: 3061933323826248686
+      char_blue_1_30: -7852395493235084839
+      char_blue_1_8: -1960856766627476044
+      char_blue_1_27: -8619293140216100421
+      char_blue_1_28: 6054745298793890849
+      char_blue_1_44: 6223058952209766378
+      char_blue_1_51: 8127204714043183193
+      char_blue_1_23: -1018340614381918201
+      char_blue_1_50: 347800184873975534
+      char_blue_1_5: -8493123568342857448
+      char_blue_1_38: -8164923724970564060
+      char_blue_1_7: -4373791461941290170
+      char_blue_1_49: 8476628503358658764
+      char_blue_1_24: 4504420369304438185
+      char_blue_1_10: 2437092350471092710
+      char_blue_1_32: -6219988907538591314
+      char_blue_1_13: 2894184814029773181
+      char_blue_1_37: -6803187157554787365
+      char_blue_1_39: -8439552032314868745
+      char_blue_1_17: -4779223563964112441
+      char_blue_1_64: -1343209920777276154
+      char_blue_1_47: -1298143489544349101
+      char_blue_1_55: 5761707732333816734
+      char_blue_1_52: 1712038220913245950
+      char_blue_1_58: 7342329189069297545
+      char_blue_1_3: -5170865467042111525
+      char_blue_1_6: 6188112501589753058
+      char_blue_1_21: 18199705615318335
+      char_blue_1_57: 8254436328554651849
+      char_blue_1_65: -8379816234284937908
+      char_blue_1_22: 3788447802536912310
+      char_blue_1_2: -8495084006604393570
+      char_blue_1_1: 8983996018246493888
+      char_blue_1_31: -8383333299035267924
+      char_blue_1_42: -8466349444752933053
+      char_blue_1_0: 8447237637920451778
+      char_blue_1_41: -2408172349292206195
+      char_blue_1_18: -3326257418846021089
+      char_blue_1_46: -188380604136506804
+      char_blue_1_67: 7133534692730195527
+      char_blue_1_60: -1866951154106985212
+      char_blue_1_61: -2039494163659080672
+      char_blue_1_40: 1950509851250621916
+      char_blue_1_34: 2535707188232548703
+      char_blue_1_63: -270978197614488045
+      char_blue_1_12: 7521073472143028285
+      char_blue_1_14: -1652192456467685912
+      char_blue_1_43: 7827407972866222019
+      char_blue_1_19: -1594315933921420143
+      char_blue_1_45: -5905445862558277663
+      char_blue_1_29: 6937074550086794189
+      char_blue_1_20: -3864321350858850404
+      char_blue_1_4: -6599241146868015478
+      char_blue_1_9: -6408724625276006510
+      char_blue_1_36: -4402520554701901769
+      char_blue_1_53: -1199576571722929761
+      char_blue_1_54: 2309135748005152654
+      char_blue_1_48: 329613314895102037
+      char_blue_1_59: 5317047930215827439
+      char_blue_1_16: -6473576653216984384
+      char_blue_1_15: 2689058613415453777
+      char_blue_1_66: 3160671186967862818
+      char_blue_1_35: -4807986362946301039
+      char_blue_1_62: 2000030947366616055
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

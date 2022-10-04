@@ -246,7 +246,7 @@ TextureImporter:
       213: -5170693379711644913
     second: magic_clifs_cave-tileset_80
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -267,6 +267,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -305,6 +306,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -344,6 +346,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2068,6 +2094,88 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      magic_clifs_cave-tileset_20: 5283664437882445024
+      magic_clifs_cave-tileset_27: 4572839570084133176
+      magic_clifs_cave-tileset_18: -6446981521572056117
+      magic_clifs_cave-tileset_38: 8564856866699657732
+      magic_clifs_cave-tileset_22: -1174423868058044578
+      magic_clifs_cave-tileset_79: -3353075303516439700
+      magic_clifs_cave-tileset_4: -2645171840482239121
+      magic_clifs_cave-tileset_40: 7511911706211628065
+      magic_clifs_cave-tileset_29: -7412774986880691319
+      magic_clifs_cave-tileset_24: -2217661230391274769
+      magic_clifs_cave-tileset_70: 2263548701645191205
+      magic_clifs_cave-tileset_33: -5295013192969985929
+      magic_clifs_cave-tileset_53: 7972142271063318161
+      magic_clifs_cave-tileset_54: 1410244499027089258
+      magic_clifs_cave-tileset_39: 3071942120218454602
+      magic_clifs_cave-tileset_16: 7645504369953371197
+      magic_clifs_cave-tileset_31: -5676738867064233126
+      magic_clifs_cave-tileset_15: 7507191186814598419
+      magic_clifs_cave-tileset_47: -1780948828517190224
+      magic_clifs_cave-tileset_46: -3390016969277846337
+      magic_clifs_cave-tileset_43: 4172554690383505435
+      magic_clifs_cave-tileset_30: -3157648630988706510
+      magic_clifs_cave-tileset_11: 6983755463251015586
+      magic_clifs_cave-tileset_36: 1475080720797228620
+      magic_clifs_cave-tileset_28: -7769196603164483031
+      magic_clifs_cave-tileset_5: -5622486010515237842
+      magic_clifs_cave-tileset_42: 5182724004950452691
+      magic_clifs_cave-tileset_35: 8303377322754415751
+      magic_clifs_cave-tileset_72: -946130973890605134
+      magic_clifs_cave-tileset_12: -4080134099925589614
+      magic_clifs_cave-tileset_45: 1467528546295274385
+      magic_clifs_cave-tileset_80: -5170693379711644913
+      magic_clifs_cave-tileset_2: -715734596178450217
+      magic_clifs_cave-tileset_73: -1946871497062864095
+      magic_clifs_cave-tileset_50: -5173635556023673331
+      magic_clifs_cave-tileset_13: -4883057433960223565
+      magic_clifs_cave-tileset_26: 3179900719382400350
+      magic_clifs_cave-tileset_58: -2161965526670320190
+      magic_clifs_cave-tileset_44: 8046522179509510465
+      magic_clifs_cave-tileset_25: -8022279393110002439
+      magic_clifs_cave-tileset_56: 2681332024267114494
+      magic_clifs_cave-tileset_67: 4189809786756862268
+      magic_clifs_cave-tileset_19: -1233803742741627098
+      magic_clifs_cave-tileset_63: -6235038215898019100
+      magic_clifs_cave-tileset_6: -1276531645433308340
+      magic_clifs_cave-tileset_8: 6744772683338439952
+      magic_clifs_cave-tileset_74: -2032189112846148172
+      magic_clifs_cave-tileset_59: -2079505494654430117
+      magic_clifs_cave-tileset_34: -1608263492583613615
+      magic_clifs_cave-tileset_7: 766492273614372764
+      magic_clifs_cave-tileset_77: -6582444083498118460
+      magic_clifs_cave-tileset_52: 5813240727778504559
+      magic_clifs_cave-tileset_69: 6819591223582290203
+      magic_clifs_cave-tileset_10: 3762760550093811368
+      magic_clifs_cave-tileset_37: -3855050924572536007
+      magic_clifs_cave-tileset_1: 4890291112367604169
+      magic_clifs_cave-tileset_3: -1809631589028420755
+      magic_clifs_cave-tileset_57: 3573884662110760294
+      magic_clifs_cave-tileset_14: 1536098662575630912
+      magic_clifs_cave-tileset_21: 8058220675405294750
+      magic_clifs_cave-tileset_51: -4920170318136408974
+      magic_clifs_cave-tileset_48: 3293411629114729900
+      magic_clifs_cave-tileset_75: 2938250255346621707
+      magic_clifs_cave-tileset_61: -8224217340559715585
+      magic_clifs_cave-tileset_66: -6927033404390564127
+      magic_clifs_cave-tileset_68: -7441942810709113878
+      magic_clifs_cave-tileset_71: 1460258834008324522
+      magic_clifs_cave-tileset_55: -4913674198062766552
+      magic_clifs_cave-tileset_9: 6022525823416631375
+      magic_clifs_cave-tileset_78: 8642989099925717778
+      magic_clifs_cave-tileset_76: 4607966877860495025
+      magic_clifs_cave-tileset_64: 4939027510938872563
+      magic_clifs_cave-tileset_60: -571313793977855912
+      magic_clifs_cave-tileset_49: 5387177994787834897
+      magic_clifs_cave-tileset_23: 5034600290710754179
+      magic_clifs_cave-tileset_32: 6233810569960727799
+      magic_clifs_cave-tileset_17: -246301276645157164
+      magic_clifs_cave-tileset_41: 8350513306100734935
+      magic_clifs_cave-tileset_62: 8027418863559784887
+      magic_clifs_cave-tileset_65: 485132055039283466
+      magic_clifs_cave-tileset_0: -2034412489261362628
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

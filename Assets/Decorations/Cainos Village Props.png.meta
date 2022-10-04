@@ -420,7 +420,7 @@ TextureImporter:
       213: 5527381689683161656
     second: Cainos Village Props_138
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -441,6 +441,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -479,6 +480,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -518,6 +520,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -3460,6 +3486,146 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Cainos Village Props_83: -1830769313651997753
+      Cainos Village Props_17: -2101131159123042893
+      Cainos Village Props_95: 3550961097033291002
+      Cainos Village Props_38: 1480250319894696281
+      Cainos Village Props_115: 802989105457049714
+      Cainos Village Props_50: 3045930005901537275
+      Cainos Village Props_111: -8905401673020971437
+      Cainos Village Props_84: -8927993640780594964
+      Cainos Village Props_122: -5297942897383663587
+      Cainos Village Props_34: 1627418291517133411
+      Cainos Village Props_118: 1322173379814473493
+      Cainos Village Props_46: 7066410467456324115
+      Cainos Village Props_130: -2340710549440862598
+      Cainos Village Props_78: -6971711640092539915
+      Cainos Village Props_35: -8212460063837068204
+      Cainos Village Props_121: 8235396003635679006
+      Cainos Village Props_59: 5782375661847633042
+      Cainos Village Props_88: -489819671829373500
+      Cainos Village Props_126: 279298001252104626
+      Cainos Village Props_100: 8171577442366864435
+      Cainos Village Props_133: 1339803269079509079
+      Cainos Village Props_102: -8885272184617572489
+      Cainos Village Props_97: 4221407892445682853
+      Cainos Village Props_44: -973384236959308189
+      Cainos Village Props_57: 4392841944635325050
+      Cainos Village Props_39: -6820507328460688096
+      Cainos Village Props_16: -4262968772304196009
+      Cainos Village Props_58: -366570161390689131
+      Cainos Village Props_109: -3296154526784883332
+      Cainos Village Props_32: 4512424122661214847
+      Cainos Village Props_40: 6647116579171648600
+      Cainos Village Props_107: 2270635745897076541
+      Cainos Village Props_105: -2096083477206634032
+      Cainos Village Props_86: -7369602298037209959
+      Cainos Village Props_123: 7194218407479635830
+      Cainos Village Props_55: 4548311480535194891
+      Cainos Village Props_77: -7145564604756745214
+      Cainos Village Props_42: 4775466637328362563
+      Cainos Village Props_74: -1145459606629935920
+      Cainos Village Props_7: 4892712024115312672
+      Cainos Village Props_75: 5064767254204877565
+      Cainos Village Props_8: 7148608995422773647
+      Cainos Village Props_136: -8440159696838536616
+      Cainos Village Props_138: 5527381689683161656
+      Cainos Village Props_2: -8071389486643443974
+      Cainos Village Props_31: 7570550014906599741
+      Cainos Village Props_19: -9040297163197242051
+      Cainos Village Props_90: -852165401171681371
+      Cainos Village Props_104: 5141498573602241099
+      Cainos Village Props_135: -538571653598349990
+      Cainos Village Props_113: 7929473678016759289
+      Cainos Village Props_25: 4533997226013658046
+      Cainos Village Props_72: -7005377940306597666
+      Cainos Village Props_11: 1432603270540860488
+      Cainos Village Props_56: -4376524103299191546
+      Cainos Village Props_27: -338644667483151604
+      Cainos Village Props_71: 9217357372148429213
+      Cainos Village Props_99: 2828641583002463492
+      Cainos Village Props_41: -6904486706280994684
+      Cainos Village Props_1: 2818862093451849191
+      Cainos Village Props_15: -1665285858969730685
+      Cainos Village Props_110: -8752885798289280679
+      Cainos Village Props_134: 4149098020925417954
+      Cainos Village Props_117: 5587110983546786233
+      Cainos Village Props_36: 7206343331889329868
+      Cainos Village Props_101: -5377115521478044462
+      Cainos Village Props_66: -8435027229440094307
+      Cainos Village Props_116: 8257190492672343886
+      Cainos Village Props_60: -5073227744100724332
+      Cainos Village Props_20: 6212476238033553921
+      Cainos Village Props_33: 4512657516628416470
+      Cainos Village Props_49: -7980600785233541826
+      Cainos Village Props_85: -3032441505746904312
+      Cainos Village Props_4: 854989914284761186
+      Cainos Village Props_87: -643116689120899287
+      Cainos Village Props_5: -812200193421612072
+      Cainos Village Props_114: 6384313365799046531
+      Cainos Village Props_89: -5702211393806783367
+      Cainos Village Props_28: -6021138394689271408
+      Cainos Village Props_82: 848170996808894584
+      Cainos Village Props_92: 361854127117930210
+      Cainos Village Props_108: -1685222860704612473
+      Cainos Village Props_69: -1331751890461554415
+      Cainos Village Props_21: -3682390284474409296
+      Cainos Village Props_61: 766774871989256618
+      Cainos Village Props_94: 5723083214746769252
+      Cainos Village Props_73: -8908911507949582748
+      Cainos Village Props_80: 5778849431239650426
+      Cainos Village Props_65: -1266557628728763372
+      Cainos Village Props_12: -2565401419764288328
+      Cainos Village Props_129: -4662145855893172908
+      Cainos Village Props_103: 5186477110220584825
+      Cainos Village Props_120: 2982997883132915592
+      Cainos Village Props_127: 1532781931167752448
+      Cainos Village Props_67: -1378209699703729790
+      Cainos Village Props_53: 3664339128269810126
+      Cainos Village Props_119: -7802904606241712807
+      Cainos Village Props_47: -5707594563967389039
+      Cainos Village Props_128: 6793095913225557940
+      Cainos Village Props_70: 6567749484512449471
+      Cainos Village Props_37: -2272570662746115191
+      Cainos Village Props_18: -5944253170333461613
+      Cainos Village Props_68: -4231649867196139019
+      Cainos Village Props_29: -2955411820120602973
+      Cainos Village Props_124: 5029097666479667697
+      Cainos Village Props_30: -7298472548969714945
+      Cainos Village Props_64: 2232739399777781038
+      Cainos Village Props_98: -7884883240841386145
+      Cainos Village Props_62: -5901014856283410552
+      Cainos Village Props_93: 4319303529867557607
+      Cainos Village Props_137: -7515920479822543687
+      Cainos Village Props_106: -681221793095884012
+      Cainos Village Props_132: 4519850481211610321
+      Cainos Village Props_24: -1290013148308703382
+      Cainos Village Props_23: -1649944380070522987
+      Cainos Village Props_6: 3800067410887661232
+      Cainos Village Props_91: 5802193320831134930
+      Cainos Village Props_9: 9008082110221938624
+      Cainos Village Props_3: 6770408049178098
+      Cainos Village Props_10: -9063413110317362904
+      Cainos Village Props_51: -1611859439035401196
+      Cainos Village Props_52: 4233287161594768450
+      Cainos Village Props_54: -6656508155426545881
+      Cainos Village Props_43: -2358321857449020240
+      Cainos Village Props_63: -5098221700364113516
+      Cainos Village Props_22: -1697075860307370362
+      Cainos Village Props_79: 7054584310077881309
+      Cainos Village Props_48: 6823874284545606432
+      Cainos Village Props_125: 9165655311006132797
+      Cainos Village Props_76: -9070817859236573053
+      Cainos Village Props_81: 3538418685703097492
+      Cainos Village Props_131: 3621001078274888883
+      Cainos Village Props_45: -1866366446723584384
+      Cainos Village Props_14: 5999311617356093550
+      Cainos Village Props_0: 2550251585644114300
+      Cainos Village Props_26: -938137464436055123
+      Cainos Village Props_96: -5067298880499834849
+      Cainos Village Props_13: 365865633517196213
+      Cainos Village Props_112: -2099035568915124347
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

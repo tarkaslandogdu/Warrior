@@ -14,19 +14,19 @@ public class Finish : MonoBehaviour
         finishSound = GetComponent<AudioSource>();
     }
 
-    //private void OnTriggerEnter2D(Collider2D collision)
-    //{
-    //    if (collision.gameObject.name == "Player" && !levelComplated)
-    //    {
-    //        finishSound.Play();
-    //        levelComplated = true;
-    //        Invoke(ComplateLevel(), 2f);
-    //    }
-    //}
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.name == "Player" && !levelComplated)
+        {
+            finishSound.Play();
+            levelComplated = true;
+            Invoke(ComplateLevel(), 2f);
+        }
+    }
 
-    //private void ComplateLevel()
-    //{
-    //    SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
-    //}
+    void ComplateLevel()
+    {
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+    }
 
 }

@@ -543,7 +543,7 @@ TextureImporter:
       213: 3552395613182409470
     second: Medieval_tiles_free2_179
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -564,6 +564,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -602,6 +603,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -641,6 +643,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -4444,6 +4470,187 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Medieval_tiles_free2_1: 9030853060222757845
+      Medieval_tiles_free2_63: 4486177299040032146
+      Medieval_tiles_free2_97: 6353745539495115808
+      Medieval_tiles_free2_177: 6632015701782388302
+      Medieval_tiles_free2_36: 9032706132054226858
+      Medieval_tiles_free2_167: 4038981934869793915
+      Medieval_tiles_free2_143: 7586006438098121291
+      Medieval_tiles_free2_139: -1533611935636880155
+      Medieval_tiles_free2_82: -8559734811697013462
+      Medieval_tiles_free2_96: 6951162685146665030
+      Medieval_tiles_free2_24: 3368190776767205003
+      Medieval_tiles_free2_120: 6717280378961826415
+      Medieval_tiles_free2_88: -4467657554131170006
+      Medieval_tiles_free2_160: 1004153972230189908
+      Medieval_tiles_free2_5: 3968285923349243819
+      Medieval_tiles_free2_70: 7998558587861473407
+      Medieval_tiles_free2_169: -2115273128395537084
+      Medieval_tiles_free2_100: 59121419974218045
+      Medieval_tiles_free2_9: -2307701077404972812
+      Medieval_tiles_free2_61: -3820540030842763400
+      Medieval_tiles_free2_122: -624933200115010930
+      Medieval_tiles_free2_71: -7005938258139518154
+      Medieval_tiles_free2_174: 7534652115331238408
+      Medieval_tiles_free2_156: 7760831634217980066
+      Medieval_tiles_free2_11: -6087508052998593469
+      Medieval_tiles_free2_117: 3995000648467489162
+      Medieval_tiles_free2_110: 5241446178815217890
+      Medieval_tiles_free2_152: -3629790125315490933
+      Medieval_tiles_free2_166: 2159046827491698899
+      Medieval_tiles_free2_102: -8779854650159895538
+      Medieval_tiles_free2_118: 4029923769544504101
+      Medieval_tiles_free2_52: -5503227258909656451
+      Medieval_tiles_free2_37: -6820764212218498247
+      Medieval_tiles_free2_104: -8793246627164129472
+      Medieval_tiles_free2_121: 1881815128393657103
+      Medieval_tiles_free2_38: 7006324469786318359
+      Medieval_tiles_free2_54: 3578030950564118308
+      Medieval_tiles_free2_133: 1338235486423553682
+      Medieval_tiles_free2_146: 501981251192271184
+      Medieval_tiles_free2_53: 2878743094882406998
+      Medieval_tiles_free2_15: -5945297883027918119
+      Medieval_tiles_free2_116: -6622530339970814263
+      Medieval_tiles_free2_77: -5762786435979268824
+      Medieval_tiles_free2_168: 4618323157166144615
+      Medieval_tiles_free2_67: -8515990781517823748
+      Medieval_tiles_free2_128: 4175458534704234051
+      Medieval_tiles_free2_132: 2824108812147481249
+      Medieval_tiles_free2_176: -146197119138760965
+      Medieval_tiles_free2_80: -1174124801603615590
+      Medieval_tiles_free2_137: 5763708954730573589
+      Medieval_tiles_free2_26: -4827456268341181703
+      Medieval_tiles_free2_163: 6324880916584764281
+      Medieval_tiles_free2_34: -4448667575851971757
+      Medieval_tiles_free2_151: 4064405447530235103
+      Medieval_tiles_free2_23: 5912356927788367901
+      Medieval_tiles_free2_29: 885163326051569082
+      Medieval_tiles_free2_18: -5614180746442258678
+      Medieval_tiles_free2_136: 2210692720198267904
+      Medieval_tiles_free2_56: -8521921162314014585
+      Medieval_tiles_free2_8: 4914800439552648702
+      Medieval_tiles_free2_150: 4158701419657394740
+      Medieval_tiles_free2_55: -6063219383655602005
+      Medieval_tiles_free2_60: -6151793958488224796
+      Medieval_tiles_free2_3: 4327524919448226399
+      Medieval_tiles_free2_12: 7204304790794764858
+      Medieval_tiles_free2_25: 2160450452533447248
+      Medieval_tiles_free2_134: -8051424807518537008
+      Medieval_tiles_free2_72: -7860504314164783678
+      Medieval_tiles_free2_92: 5883235694565436544
+      Medieval_tiles_free2_115: -8032995770394520134
+      Medieval_tiles_free2_14: 3002846657899810239
+      Medieval_tiles_free2_73: 5049278999454453592
+      Medieval_tiles_free2_179: 3552395613182409470
+      Medieval_tiles_free2_48: -5061372079887178145
+      Medieval_tiles_free2_19: 2156484500502505993
+      Medieval_tiles_free2_124: 3571934589814748857
+      Medieval_tiles_free2_44: -4599803513761599428
+      Medieval_tiles_free2_148: 8731596924848280300
+      Medieval_tiles_free2_46: 7280402652622828560
+      Medieval_tiles_free2_147: 8726123925302005593
+      Medieval_tiles_free2_153: 2485050816371111525
+      Medieval_tiles_free2_21: 2759072122260329046
+      Medieval_tiles_free2_33: 4438018393488086316
+      Medieval_tiles_free2_108: 8580230284797438781
+      Medieval_tiles_free2_58: -7981651113617819798
+      Medieval_tiles_free2_0: -6339840501679996157
+      Medieval_tiles_free2_85: -2594599273844889339
+      Medieval_tiles_free2_119: -6359585089061617488
+      Medieval_tiles_free2_142: 7942045566651350510
+      Medieval_tiles_free2_129: 1758691142538442711
+      Medieval_tiles_free2_31: -6085766758151892200
+      Medieval_tiles_free2_149: -4212340962694826475
+      Medieval_tiles_free2_123: 4767940203611476321
+      Medieval_tiles_free2_42: 6150426128793093935
+      Medieval_tiles_free2_7: -9024985339574051980
+      Medieval_tiles_free2_78: -6551260843795940149
+      Medieval_tiles_free2_45: 5434579452756201623
+      Medieval_tiles_free2_59: 3857535695420276480
+      Medieval_tiles_free2_140: 5149491472387775882
+      Medieval_tiles_free2_144: -7392979892123821860
+      Medieval_tiles_free2_173: -6873064235531766190
+      Medieval_tiles_free2_113: -4501099967382450908
+      Medieval_tiles_free2_75: 5322017837951586051
+      Medieval_tiles_free2_41: 241158610846679409
+      Medieval_tiles_free2_40: -4815806471921479675
+      Medieval_tiles_free2_17: 2042110417323823954
+      Medieval_tiles_free2_81: -4515202373939665918
+      Medieval_tiles_free2_47: 3262411086105834928
+      Medieval_tiles_free2_84: -5989138097085134591
+      Medieval_tiles_free2_171: 1338292231802483456
+      Medieval_tiles_free2_69: -8074748115077790998
+      Medieval_tiles_free2_68: 7756096689369865878
+      Medieval_tiles_free2_175: 4131453028804341585
+      Medieval_tiles_free2_99: 4410878839967595788
+      Medieval_tiles_free2_105: 1015014600972026154
+      Medieval_tiles_free2_32: 3818794575324104818
+      Medieval_tiles_free2_87: 5694454086473730491
+      Medieval_tiles_free2_138: -5518827249659744166
+      Medieval_tiles_free2_158: 6791474171467919771
+      Medieval_tiles_free2_93: -114765019389946695
+      Medieval_tiles_free2_62: -6254696312784727185
+      Medieval_tiles_free2_74: -357015075660711711
+      Medieval_tiles_free2_65: 3428621867512709327
+      Medieval_tiles_free2_111: 7057869673495185075
+      Medieval_tiles_free2_27: -8185898098930780252
+      Medieval_tiles_free2_164: -8437696062562874068
+      Medieval_tiles_free2_20: 8459720761364862524
+      Medieval_tiles_free2_64: 3515858220144953519
+      Medieval_tiles_free2_131: -1255070111567513265
+      Medieval_tiles_free2_30: -4922449362971919876
+      Medieval_tiles_free2_57: -426954259281519673
+      Medieval_tiles_free2_178: -48470744061052489
+      Medieval_tiles_free2_91: -3725992928311309610
+      Medieval_tiles_free2_6: 516583609450998403
+      Medieval_tiles_free2_95: 888221120920283168
+      Medieval_tiles_free2_51: 1278355330935278212
+      Medieval_tiles_free2_94: 6274375934247818849
+      Medieval_tiles_free2_114: -911767560802048114
+      Medieval_tiles_free2_170: 8607321253231081167
+      Medieval_tiles_free2_28: 6568714087595170612
+      Medieval_tiles_free2_109: 3768738069205060904
+      Medieval_tiles_free2_107: -2854052455273761873
+      Medieval_tiles_free2_2: -1257508055669811560
+      Medieval_tiles_free2_159: 6004867196991681736
+      Medieval_tiles_free2_22: 3818295812308468626
+      Medieval_tiles_free2_35: -8870550275587248711
+      Medieval_tiles_free2_50: 8360373652411510732
+      Medieval_tiles_free2_103: -6208510288865149464
+      Medieval_tiles_free2_13: 8793598100166321337
+      Medieval_tiles_free2_86: -5176927409636778086
+      Medieval_tiles_free2_49: -7101707166970773253
+      Medieval_tiles_free2_16: -8246420711053020710
+      Medieval_tiles_free2_141: -7519568704827001257
+      Medieval_tiles_free2_125: 1273855038930136667
+      Medieval_tiles_free2_83: 4511991276388465169
+      Medieval_tiles_free2_126: 4016508242869722908
+      Medieval_tiles_free2_89: -6604821078110103535
+      Medieval_tiles_free2_135: 4482702072903415279
+      Medieval_tiles_free2_130: -7158617430737063460
+      Medieval_tiles_free2_10: -5489993827170980427
+      Medieval_tiles_free2_66: -1084532952493223908
+      Medieval_tiles_free2_101: 6653027901572127715
+      Medieval_tiles_free2_172: 8281490322937369783
+      Medieval_tiles_free2_4: -1385831114724441125
+      Medieval_tiles_free2_90: -9007725886898433860
+      Medieval_tiles_free2_76: 3903867032812925250
+      Medieval_tiles_free2_106: 1907736352166730757
+      Medieval_tiles_free2_162: 4265101243493589670
+      Medieval_tiles_free2_98: 8459825572858021027
+      Medieval_tiles_free2_154: 4257265120548602176
+      Medieval_tiles_free2_112: -5423734744203157021
+      Medieval_tiles_free2_157: 6765061863449878785
+      Medieval_tiles_free2_127: 438830494904876010
+      Medieval_tiles_free2_79: -324915534762799985
+      Medieval_tiles_free2_155: 4045328249863724949
+      Medieval_tiles_free2_145: -4760163268989691079
+      Medieval_tiles_free2_161: -4078040658716305319
+      Medieval_tiles_free2_165: 5422804048338482855
+      Medieval_tiles_free2_43: 5866144205535794375
+      Medieval_tiles_free2_39: 2054215286271964979
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

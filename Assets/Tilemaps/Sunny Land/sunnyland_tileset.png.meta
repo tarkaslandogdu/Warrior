@@ -330,7 +330,7 @@ TextureImporter:
       213: -4706737759802343979
     second: sunnyland_tileset_108
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -351,6 +351,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -389,6 +390,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -428,6 +430,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -2740,6 +2766,116 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      sunnyland_tileset_8: -7211197531540792501
+      sunnyland_tileset_84: -8901048622830486881
+      sunnyland_tileset_88: 697997813932654816
+      sunnyland_tileset_70: 2994151360532586918
+      sunnyland_tileset_41: 5917434135824319981
+      sunnyland_tileset_6: -5758917398251706715
+      sunnyland_tileset_30: -7662970339764172158
+      sunnyland_tileset_73: 6969053183019332954
+      sunnyland_tileset_87: 5637216244170744101
+      sunnyland_tileset_92: 6016732247821325781
+      sunnyland_tileset_64: -598637066838455441
+      sunnyland_tileset_104: 1849955568858251796
+      sunnyland_tileset_53: 3598775528357686661
+      sunnyland_tileset_59: -110061318226724899
+      sunnyland_tileset_96: 1072271961423444482
+      sunnyland_tileset_10: 991812975908761937
+      sunnyland_tileset_31: 8115638881609716117
+      sunnyland_tileset_13: 1801089128525115089
+      sunnyland_tileset_75: 6727147184436529818
+      sunnyland_tileset_85: 2827464248709789432
+      sunnyland_tileset_63: 5357493422537099462
+      sunnyland_tileset_2: 6468155655745771368
+      sunnyland_tileset_25: -1514500303527478073
+      sunnyland_tileset_46: 1336871164948287018
+      sunnyland_tileset_38: 203653746217160632
+      sunnyland_tileset_33: -4227107693866257778
+      sunnyland_tileset_66: 4510988117943928450
+      sunnyland_tileset_15: -3118717130338672200
+      sunnyland_tileset_97: -6088821044630190028
+      sunnyland_tileset_3: 999749162733604806
+      sunnyland_tileset_82: -887215146958412937
+      sunnyland_tileset_83: -5375024669649210276
+      sunnyland_tileset_107: -1813626141272224904
+      sunnyland_tileset_17: -8853322396268998727
+      sunnyland_tileset_34: 7933295455965098243
+      sunnyland_tileset_62: 723217694524343048
+      sunnyland_tileset_76: -3097970615974517232
+      sunnyland_tileset_58: -4798456824050072752
+      sunnyland_tileset_27: -4878188571887760388
+      sunnyland_tileset_44: 1237761156994022967
+      sunnyland_tileset_26: 8623799792784500786
+      sunnyland_tileset_40: -5016369658655300409
+      sunnyland_tileset_4: -3602310533461760237
+      sunnyland_tileset_35: -5316451456377609895
+      sunnyland_tileset_69: 4645700382589099038
+      sunnyland_tileset_24: 5047872428876513513
+      sunnyland_tileset_52: 4119139993594865668
+      sunnyland_tileset_21: -7724828549076693670
+      sunnyland_tileset_49: -1401319137763857969
+      sunnyland_tileset_54: -3733304816089099336
+      sunnyland_tileset_101: -2159351414403960924
+      sunnyland_tileset_32: -7103667754827425788
+      sunnyland_tileset_9: 5661877309858884304
+      sunnyland_tileset_106: -4863964888478569071
+      sunnyland_tileset_77: 560434502737898778
+      sunnyland_tileset_20: -7884001769528605667
+      sunnyland_tileset_65: 3124069786755733368
+      sunnyland_tileset_79: 482405521458856216
+      sunnyland_tileset_94: 3345578895173516520
+      sunnyland_tileset_19: -5688272121389893731
+      sunnyland_tileset_90: 7656624685193046585
+      sunnyland_tileset_67: -5420034786422098815
+      sunnyland_tileset_16: 884708652703061579
+      sunnyland_tileset_1: 367499979174602394
+      sunnyland_tileset_81: 4558062670307072389
+      sunnyland_tileset_105: 6716140332322788459
+      sunnyland_tileset_45: 5299649569497019273
+      sunnyland_tileset_51: -1605012607174804389
+      sunnyland_tileset_55: -9173872971929317192
+      sunnyland_tileset_12: -6889494851688959325
+      sunnyland_tileset_5: -4678510188562244205
+      sunnyland_tileset_42: -7571285571453948564
+      sunnyland_tileset_36: 1330546816027994326
+      sunnyland_tileset_99: -7814861510181829490
+      sunnyland_tileset_60: 3432775865489057738
+      sunnyland_tileset_29: -4291251728874451405
+      sunnyland_tileset_72: -6248384597896340154
+      sunnyland_tileset_91: -1559594460097400525
+      sunnyland_tileset_102: 1392166543126321404
+      sunnyland_tileset_56: -8364226903507554083
+      sunnyland_tileset_93: 2034179511833466087
+      sunnyland_tileset_100: 6982920818084793939
+      sunnyland_tileset_11: -3232396537026003937
+      sunnyland_tileset_39: 1011105222838738357
+      sunnyland_tileset_108: -4706737759802343979
+      sunnyland_tileset_98: 6075026721001315217
+      sunnyland_tileset_68: -2191762047263587156
+      sunnyland_tileset_78: -1571973818235387106
+      sunnyland_tileset_0: 3545463515140016663
+      sunnyland_tileset_37: -884204803959425617
+      sunnyland_tileset_80: 5634211151606488926
+      sunnyland_tileset_103: -193607848218198113
+      sunnyland_tileset_48: 1610515345276177028
+      sunnyland_tileset_22: -2334450350422756557
+      sunnyland_tileset_47: 5953832686870435310
+      sunnyland_tileset_71: -2652861011729400670
+      sunnyland_tileset_50: 1161289283925715319
+      sunnyland_tileset_18: 7871868074032869465
+      sunnyland_tileset_43: -1898437525212071737
+      sunnyland_tileset_14: 7653790498358825747
+      sunnyland_tileset_61: -7485547206809931779
+      sunnyland_tileset_89: -4994457348970910788
+      sunnyland_tileset_86: -6747084949669045219
+      sunnyland_tileset_7: 8836191138506225894
+      sunnyland_tileset_28: -8588449748228683307
+      sunnyland_tileset_23: 6829053934701127870
+      sunnyland_tileset_57: 5004415453821537779
+      sunnyland_tileset_95: -5944295982276436363
+      sunnyland_tileset_74: 5705109802057739816
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0

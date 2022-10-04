@@ -138,7 +138,7 @@ TextureImporter:
       213: 1762394635009042392
     second: Wasteland_tilemap_57
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 12
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -159,6 +159,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
+  ignoreMasterTextureLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -197,6 +198,7 @@ TextureImporter:
   textureFormatSet: 0
   ignorePngGamma: 0
   applyGammaDecoding: 0
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -236,6 +238,30 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -1204,6 +1230,52 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
+    nameFileIdTable:
+      Wasteland_tilemap_13: -5581458098427251667
+      Wasteland_tilemap_31: -7794423264665470155
+      Wasteland_tilemap_1: -1800702709966129598
+      Wasteland_tilemap_29: 357021747308665162
+      Wasteland_tilemap_45: 5420829869216643641
+      Wasteland_tilemap_20: 9020911696581152168
+      Wasteland_tilemap_34: -3949821059243863896
+      Wasteland_tilemap_52: 7705694634433163030
+      Wasteland_tilemap_23: -7746922013267898360
+      Wasteland_tilemap_28: 658169046446700720
+      Wasteland_tilemap_57: 1762394635009042392
+      Wasteland_tilemap_55: 6032870708511423097
+      Wasteland_tilemap_54: -2175211630508388972
+      Wasteland_tilemap_39: -5959341586099091564
+      Wasteland_tilemap_15: 1780137118142975484
+      Wasteland_tilemap_8: 8885060226928748921
+      Wasteland_tilemap_9: -4836226254454573784
+      Wasteland_tilemap_38: -8151831289624500749
+      Wasteland_tilemap_14: -5703296315313105159
+      Wasteland_tilemap_42: 7291503512956774890
+      Wasteland_tilemap_11: -2584728082442762024
+      Wasteland_tilemap_25: 3243435215458149218
+      Wasteland_tilemap_18: 2337765600032821024
+      Wasteland_tilemap_30: 2445288373566769223
+      Wasteland_tilemap_0: -7663180675530481490
+      Wasteland_tilemap_12: 6008294817556611255
+      Wasteland_tilemap_51: -4098895646441090551
+      Wasteland_tilemap_40: 4156839531507058048
+      Wasteland_tilemap_21: 7775343701759464979
+      Wasteland_tilemap_56: 8395777436059406216
+      Wasteland_tilemap_53: -2582781042081973791
+      Wasteland_tilemap_10: -3660667391105732364
+      Wasteland_tilemap_36: -1545815563812241099
+      Wasteland_tilemap_22: 782214245873015084
+      Wasteland_tilemap_27: -1655049624287926447
+      Wasteland_tilemap_19: -4879859672283570387
+      Wasteland_tilemap_17: -5217160804528315143
+      Wasteland_tilemap_26: 6423721532409214043
+      Wasteland_tilemap_41: -8581506529306722198
+      Wasteland_tilemap_35: 2976423272311612321
+      Wasteland_tilemap_16: 1068884123225298998
+      Wasteland_tilemap_24: -1997772461578953949
+      Wasteland_tilemap_33: -8498072633586105941
+      Wasteland_tilemap_32: 1646202571871227530
+      Wasteland_tilemap_7: -1491187201737887057
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
