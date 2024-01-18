@@ -14,13 +14,13 @@ public class Finish : MonoBehaviour
         finishSound = GetComponent<AudioSource>();
     }
 
-    private void OnTriggerEnter2D(Collider2D collision)
+    void OnTriggerEnter2D(Collider2D collision)
     {
         if (collision.gameObject.name == "Player" && !levelComplated)
         {
             finishSound.Play();
             levelComplated = true;
-            Invoke(ComplateLevel(), 2f);
+            Invoke(nameof(ComplateLevel), 2f);
         }
     }
 

@@ -57,8 +57,8 @@ public class playerMoment : MonoBehaviour
             jump = true;
         }
 
-        float inputRaw = Input.GetAxisRaw("Horizontal");
-        horizontal = Input.GetAxisRaw("Horizontal");
+        float inputRaw = Input.GetAxis("Horizontal");
+        horizontal = Input.GetAxis("Horizontal");
         rb2D.velocity = new Vector2(horizontal * maxSpeed * Time.deltaTime, rb2D.velocity.y);
 
         if (jump)
